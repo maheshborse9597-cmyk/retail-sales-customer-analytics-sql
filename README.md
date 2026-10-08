@@ -125,3 +125,14 @@ It demonstrates how SQL can be used to transform raw sales data into actionable 
 
 **Author:** Mahesh Borse <br> 
 **Focus:** Data Analytics | SQL | Excel | Power BI
+
+## 📊 Project Screenshots
+
+### KPI Analysis
+![KPI Analysis](screenshots/01_KPI_Analysis.png01_KPI_Analysis.png)
+
+### Category Revenue Analysis
+![Category Revenue Analysis](screenshots/02_Category_Revenue_Analysis.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/03_Customer_Analysis.png)
